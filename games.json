@@ -1,0 +1,12 @@
+[
+    {
+        "game_title": "Crash Bandicoot",
+        "boxart": "https://example.com/crash_bandicoot.jpg",
+        "platform": "PlayStation"
+    },
+    {
+        "game_title": "Gran Turismo",
+        "boxart": "https://example.com/gran_turismo.jpg",
+        "platform": "PlayStation"
+    }
+]
