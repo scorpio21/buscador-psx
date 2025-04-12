@@ -30,4 +30,3 @@ if (isset($data['data']['games'])) {
     echo "<p>No se encontraron resultados.</p>";
 }
 ?>
-
